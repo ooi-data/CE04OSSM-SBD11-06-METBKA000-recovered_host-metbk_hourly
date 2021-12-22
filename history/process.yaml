@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSSM-SBD11-06-METBKA000-recovered_host-metbk_hourly
 data_stream: CE04OSSM-SBD11-06-METBKA000-recovered_host-metbk_hourly
 end_date: '2021-09-21T18:34:21.371Z'
-last_updated: '2021-12-22T05:58:20.122813Z'
+last_updated: '2021-12-22T06:04:52.374883'
 start_date: '2015-04-07T23:00:06.002Z'
-status: pending
+status: success
